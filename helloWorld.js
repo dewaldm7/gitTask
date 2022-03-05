@@ -1,1 +1,2 @@
-document.write("Git is awesome!");
+
+prompt("Please enter your name:")
